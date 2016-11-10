@@ -1,6 +1,6 @@
 # My-Own-Shell
 
-The more detailed readme is attached as README.docx.
+The more detailed readme is attached as README.pdf.
 
 My shell is an individual work. She realizes all the minimum requirements and 3 optional features, along with one extension: history.
 
